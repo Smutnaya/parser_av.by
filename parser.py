@@ -1,5 +1,7 @@
+import asyncio
 import math
 
+import aiohttp
 import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -34,7 +36,7 @@ def get_all_auto(url, driver):
 def input_model():
     print('\n\nДля продолжения поиска введите одну из доступных моделей')
 
-    model = 'x7'
+    model = 'x5'
     print(f'->model->{model}')
     # !!!
     # model = input('-> ').lower().strip()
@@ -109,7 +111,7 @@ def get_count_items(url):
 #         return 'https://cars.av.by' + url.get('href')
 
 
-def pars_top(soup):
+async def pars_top(soup):
     # listing-top__summary
     data_pars = soup.findAll('div', class_='listing-top__summary')
     soup = BeautifulSoup(str(data_pars), "html.parser")
@@ -129,14 +131,14 @@ def pars_top(soup):
         # print(car.model)
 
 
-def pars_auto(url, page_auto):
+async def pars_auto(url, page_auto):
     url = get_url(url)
     page = requests.get(url)
     if page.status_code == 200:  # page.status_code - статус код '200'- успешно подключены, всё ок
         soup = BeautifulSoup(page.text, "html.parser")
 
         if page_auto == 1:
-            pars_top(soup)
+            await pars_top(soup)
             page_auto += 1
         # listing - item__wrap
         soup = BeautifulSoup(page.text, "html.parser")
@@ -156,7 +158,7 @@ def pars_auto(url, page_auto):
             cars.append(car)
 
 
-def parsing(url, driver):
+async def parsing(url, driver):
     webdriver = driver
     url_av_by = url
     get_all_auto(url_av_by, webdriver)
@@ -166,21 +168,33 @@ def parsing(url, driver):
     url_model = models[model_inp]
     url_av = model_auto(url_av_by, url_av, url_model, webdriver)
     count_items = math.ceil(get_count_items(url_av) / 25)
-    page_auto = 1
-    pars_auto(url_av, page_auto)
-    while True:
-        page_auto += 1
-        if page_auto <= count_items:
-            # print(page_auto, count_items)
-            next_url = (
-                    'https://cars.av.by/filter?brands%5B0%5D%5Bbrand%5D=8&brands%5B0%5D%5Bmodel%5D=5965&price_currency=2&page='
-                    + str(page_auto))
-            # next_url = next_str(url)
-            # # print(next_url)
-            # if next_url:
-            pars_auto(next_url, page_auto)
-        else:
-            break
+
+    pages_auto = ['https://cars.av.by/filter?brands%5B0%5D%5Bbrand%5D=8&brands%5B0%5D%5Bmodel%5D=5965&price_currency'
+                  '=2&page='] * count_items
+
+    async with aiohttp.ClientSession() as session:
+        tasks = []
+
+        for page in pages_auto:
+            tasks.append(pars_auto(url_av, page))
+
+        await asyncio.gather(*tasks)
+
+    # page_auto = 1
+    # pars_auto(url_av, page_auto)
+    # while True:
+    #     page_auto += 1
+    #     if page_auto <= count_items:
+    #         # print(page_auto, count_items)
+    #         next_url = (
+    #                 'https://cars.av.by/filter?brands%5B0%5D%5Bbrand%5D=8&brands%5B0%5D%5Bmodel%5D=5965&price_currency=2&page='
+    #                 + str(page_auto))
+    #         # next_url = next_str(url)
+    #         # # print(next_url)
+    #         # if next_url:
+    #         pars_auto(next_url, page_auto)
+    #     else:
+    #         break
 
     print(f'\nВсего найдено объявлений: {len(cars)}\n')
     cars.sort(key=lambda x: x.usd, reverse=True)

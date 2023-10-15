@@ -1,17 +1,22 @@
+import asyncio
+
 from parser import parsing
 import time
 from selenium import webdriver
 
 
-def main():
+async def main():
     driver = webdriver.Firefox()
     time.sleep(2)
     url = 'https://cars.av.by'
-    parsing(url, driver)
+    await parsing(url, driver)
 
     time.sleep(3)
     driver.quit()
 
 
 if __name__ == '__main__':
-    main()
+    start = time.time()
+    asyncio.run(main())
+    end = time.time()
+    print(end-start)

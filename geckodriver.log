@@ -29976,3 +29976,711 @@ deleteSession()@WebDriverBiDi.sys.mjs:140
 stop()@WebDriverBiDi.sys.mjs:228
 observe()@resource://gre/modules/AsyncShutdown.sys.mjs:573
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1697369204731	geckodriver	INFO	Listening on 127.0.0.1:57635
+1697369207969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57636" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileP6msuq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697369210841	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697369211087	Marionette	INFO	Listening on port 57644
+WebDriver BiDi listening on ws://127.0.0.1:57636
+Read port: 57644
+1697369213225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57636/devtools/browser/7398170c-919e-4458-ae4e-c62f304570d0
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://static-new.av.by/app/_next/static/chunks/main-804db723bf97f30e.js, line 16: Script terminated by timeout at:
+86590/g/<@https://static-new.av.by/app/_next/static/chunks/main-804db723bf97f30e.js:16:53527
+r@https://static-new.av.by/app/_next/static/chunks/main-804db723bf97f30e.js:16:53023
+
+1697369282934	Marionette	INFO	Stopped listening on port 57644
+Dynamically enable window occlusion 1
+1697369300911	geckodriver	INFO	Listening on 127.0.0.1:57785
+1697369304127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57786" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile56nvNC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697369305253	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697369305396	Marionette	INFO	Listening on port 57796
+WebDriver BiDi listening on ws://127.0.0.1:57786
+Read port: 57796
+1697369305862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57786/devtools/browser/61e74d3d-ccc0-4ebb-9efa-9bb21cb9688e
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 565))
+JavaScript error: resource:///modules/FaviconLoader.sys.mjs, line 580: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697369317327	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://cars.av.by/, line 80: ReferenceError: yandexHTML5BannerApi is not defined
+1697369321980	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://cars.av.by/bmw, line 80: ReferenceError: yandexHTML5BannerApi is not defined
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697369324888	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1697369324903	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/21mMSjfcZkP8uSd7DAhQtto60Pqa34G2w50Go1Kr9uE.js line 2 > eval line 7406 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1697369334144	Marionette	INFO	Stopped listening on port 57796
+JavaScript warning: https://yastatic.net/partner-code-bundles/888451/bc2950547e681b79cbb6.js, line 2: Script terminated by timeout at:
+24881/e.initMovementChecking/o<@https://yastatic.net/partner-code-bundles/888451/bc2950547e681b79cbb6.js:2:73215
+
+JavaScript warning: https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js, line 58: Script terminated by timeout at:
+Yf.prototype.D@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:58:575
+
+Dynamically enable window occlusion 1
+1697369415573	geckodriver	INFO	Listening on 127.0.0.1:57957
+1697369418619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile3BEfbG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697369419544	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697369419703	Marionette	INFO	Listening on port 57965
+WebDriver BiDi listening on ws://127.0.0.1:57958
+Read port: 57965
+1697369420144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57958/devtools/browser/d94bb294-37e3-41d3-a0e5-19a37b384d8f
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697369428279	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://yandex.ru/ads/system/context.js, line 2: ChunkLoadError: Loading chunk 4115 failed.
+(error: https://yastatic.net/partner-code-bundles/888451/7a702b9c97b636d1d570.js)
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697369435076	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1697369438231	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/21mMSjfcZkP8uSd7DAhQtto60Pqa34G2w50Go1Kr9uE.js line 2 > eval line 881 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1697369490348	Marionette	INFO	Stopped listening on port 57965
+Dynamically enable window occlusion 1
+1697369669425	geckodriver	INFO	Listening on 127.0.0.1:58194
+1697369672459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileJjqLC8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697369673445	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697369673577	Marionette	INFO	Listening on port 58202
+WebDriver BiDi listening on ws://127.0.0.1:58195
+Read port: 58202
+1697369674055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58195/devtools/browser/7df6d04f-33eb-4e9d-839a-a680f4ed6071
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697369683497	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://yandex.ru/ads/system/context.js, line 2: ChunkLoadError: Loading chunk 8588 failed.
+(error: https://yastatic.net/partner-code-bundles/888451/bc2950547e681b79cbb6.js)
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://yandex.ru/ads/system/context.js, line 2: ChunkLoadError: Loading chunk 4115 failed.
+(error: https://yastatic.net/partner-code-bundles/888451/7a702b9c97b636d1d570.js)
+1697369692403	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1697369692456	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1697369697470	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/21mMSjfcZkP8uSd7DAhQtto60Pqa34G2w50Go1Kr9uE.js line 2 > eval line 304 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1697369710283	Marionette	INFO	Stopped listening on port 58202
+Dynamically enable window occlusion 1
+1697369744693	geckodriver	INFO	Listening on 127.0.0.1:58368
+1697369747730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilemucnne"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697369748765	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697369748928	Marionette	INFO	Listening on port 58376
+WebDriver BiDi listening on ws://127.0.0.1:58369
+Read port: 58376
+1697369749353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58369/devtools/browser/098877e2-ccb6-4668-b815-7fe42a8fbc4a
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697369757742	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://yandex.ru/ads/system/context.js, line 2: ChunkLoadError: Loading chunk 4115 failed.
+(error: https://yastatic.net/partner-code-bundles/888451/7a702b9c97b636d1d570.js)
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697369761464	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1697369761524	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1697369766200	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1697369769250	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/21mMSjfcZkP8uSd7DAhQtto60Pqa34G2w50Go1Kr9uE.js line 2 > eval line 3490 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1697369780782	Marionette	INFO	Stopped listening on port 58376
+JavaScript warning: https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js, line 58: Script terminated by timeout at:
+Yf.prototype.D@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:58:575
+
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/pioneer-study-addons-v2 getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1697369845980	geckodriver	INFO	Listening on 127.0.0.1:58575
+1697369849026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58576" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilek2vjsE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697369850169	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697369850329	Marionette	INFO	Listening on port 58583
+WebDriver BiDi listening on ws://127.0.0.1:58576
+Read port: 58583
+1697369850849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58576/devtools/browser/131535ec-b5b4-4b82-9564-b37f1185198e
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697369859278	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://yandex.ru/ads/system/context.js, line 2: ChunkLoadError: Loading chunk 4115 failed.
+(error: https://yastatic.net/partner-code-bundles/888451/7a702b9c97b636d1d570.js)
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697369866859	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1697369867023	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1697369870497	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/21mMSjfcZkP8uSd7DAhQtto60Pqa34G2w50Go1Kr9uE.js line 2 > eval line 7437 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/21mMSjfcZkP8uSd7DAhQtto60Pqa34G2w50Go1Kr9uE.js line 2 > eval line 2825 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1697369882902	Marionette	INFO	Stopped listening on port 58583
+JavaScript warning: https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js, line 58: Script terminated by timeout at:
+Yf.prototype.D@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:58:575
+
+JavaScript warning: https://s0.2mdn.net/sadbundle/12571816789492003058/gwd-events-support.1.0.js, line 12: Script terminated by timeout at:
+v@https://s0.2mdn.net/sadbundle/12571816789492003058/gwd-events-support.1.0.js:12:252
+
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/translations-identification-models getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1697369942443	geckodriver	INFO	Listening on 127.0.0.1:58754
+1697369945473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilezW6cur"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697369946605	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697369946797	Marionette	INFO	Listening on port 58762
+WebDriver BiDi listening on ws://127.0.0.1:58755
+Read port: 58762
+1697369947224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58755/devtools/browser/90f3621a-dfee-43df-9bca-f19e5843b94c
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697369959030	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://yandex.ru/ads/system/context.js, line 2: ChunkLoadError: Loading chunk 8588 failed.
+(error: https://yastatic.net/partner-code-bundles/888451/bc2950547e681b79cbb6.js)
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://yandex.ru/ads/system/context.js, line 2: ChunkLoadError: Loading chunk 4115 failed.
+(error: https://yastatic.net/partner-code-bundles/888451/7a702b9c97b636d1d570.js)
+1697369964424	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697369967540	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1697369968760	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1697369969006	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1697369982161	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1697369982462	Marionette	INFO	Stopped listening on port 58762
+JavaScript warning: https://static-new.av.by/app/_next/static/chunks/2815.3819cbfa117cf9d2.js, line 1: Script terminated by timeout at:
+s@https://static-new.av.by/app/_next/static/chunks/2815.3819cbfa117cf9d2.js:1:2317
+
+Dynamically enable window occlusion 1
+console.error: (new Error("IndexedDB: main/doh-config getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.error: (new Error("IndexedDB: main/devtools-devices getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1697370006260	geckodriver	INFO	Listening on 127.0.0.1:58941
+1697370009302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58942" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofiled2YpkU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697370009951	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697370010078	Marionette	INFO	Listening on port 58949
+Read port: 58949
+WebDriver BiDi listening on ws://127.0.0.1:58942
+1697370010256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58942/devtools/browser/a0cb0112-59ee-4194-b601-1c01b6743a8d
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://yastatic.net/safeframe-bundles/0.83/1-1-0/render.html line 26 > injectedScript, line 28: Script terminated by timeout at:
+n@https://yastatic.net/safeframe-bundles/0.83/1-1-0/render.html line 26 > injectedScript:28:1222
+
+JavaScript error: https://yandex.ru/ads/system/context.js, line 2: ChunkLoadError: Loading chunk 4115 failed.
+(error: https://yastatic.net/partner-code-bundles/888451/7a702b9c97b636d1d570.js)
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697370026367	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1697370026929	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://9fc3dd7acf7b2e017c3a472bf9e31185.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1, line 12: Script terminated by timeout at:
+n@https://9fc3dd7acf7b2e017c3a472bf9e31185.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1:12:90
+@https://9fc3dd7acf7b2e017c3a472bf9e31185.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1:16:2932
+@https://9fc3dd7acf7b2e017c3a472bf9e31185.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1:16:5647
+
+1697370068021	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/21mMSjfcZkP8uSd7DAhQtto60Pqa34G2w50Go1Kr9uE.js line 2 > eval line 4542 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-new.av.by/app/_next/static/chunks/main-804db723bf97f30e.js, line 16: Script terminated by timeout at:
+86590/g/<@https://static-new.av.by/app/_next/static/chunks/main-804db723bf97f30e.js:16:53527
+r@https://static-new.av.by/app/_next/static/chunks/main-804db723bf97f30e.js:16:53023
+
+1697370077995	Marionette	INFO	Stopped listening on port 58949
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1697370078146	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:239
+deleteSession()@WebDriverBiDi.sys.mjs:140
+stop()@WebDriverBiDi.sys.mjs:228
+1697370091060	geckodriver	INFO	Listening on 127.0.0.1:59129
+1697370094096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59130" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilefa4j4A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697370094992	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697370095159	Marionette	INFO	Listening on port 59139
+WebDriver BiDi listening on ws://127.0.0.1:59130
+Read port: 59139
+1697370095643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59130/devtools/browser/7ec9f63f-12a4-49e7-b209-3151236826b9
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697370106770	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript warning: https://yastatic.net/safeframe-bundles/0.83/1-1-0/render.html line 26 > injectedScript, line 28: Script terminated by timeout at:
+n@https://yastatic.net/safeframe-bundles/0.83/1-1-0/render.html line 26 > injectedScript:28:1222
+
+1697370111092	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1697370111356	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/e-zfyE2pbDTyYQrCQWWBVQC0FJ7OV3Fqk4CSA41GVMg.js line 2 > eval line 4865 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1697370164115	Marionette	INFO	Stopped listening on port 59139
+JavaScript warning: https://yandex.ru/ads/system/context.js, line 2: Script terminated by timeout at:
+12251/t.protect/<@https://yandex.ru/ads/system/context.js:2:124212
+
+Dynamically enable window occlusion 1
+1697370214614	geckodriver	INFO	Listening on 127.0.0.1:59328
+1697370217676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofiletPbYPZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697370218338	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697370218502	Marionette	INFO	Listening on port 59336
+WebDriver BiDi listening on ws://127.0.0.1:59329
+Read port: 59336
+1697370218918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59329/devtools/browser/bd4dd2d9-02af-482e-947b-b544ba4843f2
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697370226925	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://yandex.ru/ads/system/context.js, line 2: ChunkLoadError: Loading chunk 4115 failed.
+(error: https://yastatic.net/partner-code-bundles/888451/7a702b9c97b636d1d570.js)
+1697370232144	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1697370232617	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1697370235941	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1697370237933	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1697370290696	Marionette	INFO	Stopped listening on port 59336
+JavaScript warning: https://yastatic.net/partner-code-bundles/888451/bc2950547e681b79cbb6.js, line 2: Script terminated by timeout at:
+24881/e.initMovementChecking/o<@https://yastatic.net/partner-code-bundles/888451/bc2950547e681b79cbb6.js:2:73215
+
+Dynamically enable window occlusion 1
+1697370320676	geckodriver	INFO	Listening on 127.0.0.1:59523
+1697370323687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59524" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileJYBdgt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697370324563	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697370324700	Marionette	INFO	Listening on port 59531
+WebDriver BiDi listening on ws://127.0.0.1:59524
+Read port: 59531
+1697370325149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59524/devtools/browser/eabb47d6-635e-473d-a21e-33e15fb6205b
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697370335350	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript warning: https://yastatic.net/safeframe-bundles/0.83/1-1-0/render.html line 26 > injectedScript, line 28: Script terminated by timeout at:
+n@https://yastatic.net/safeframe-bundles/0.83/1-1-0/render.html line 26 > injectedScript:28:1222
+
+1697370338577	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1697370340645	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1697370390571	Marionette	INFO	Stopped listening on port 59531
+Dynamically enable window occlusion 1
+1697370406555	geckodriver	INFO	Listening on 127.0.0.1:59701
+1697370409681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59702" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile5UN4mO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697370410460	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697370410650	Marionette	INFO	Listening on port 59709
+WebDriver BiDi listening on ws://127.0.0.1:59702
+Read port: 59709
+1697370411036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59702/devtools/browser/11dde481-69ba-4551-a575-ef20d32f0a14
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static-new.av.by/app/_next/static/chunks/framework-a4908dbc89459993.js, line 25: Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1697370420993	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1697370424801	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1697370424947	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1697370426849	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/21mMSjfcZkP8uSd7DAhQtto60Pqa34G2w50Go1Kr9uE.js line 2 > eval line 7725 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1697370477453	Marionette	INFO	Stopped listening on port 59709
+JavaScript warning: https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js, line 58: Script terminated by timeout at:
+Yf.prototype.D@https://s0.2mdn.net/879366/express_html_inpage_rendering_lib_200_278.js:58:575
+
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-M6KM7CJ, line 454: Script terminated by timeout at:
+n@https://www.googletagmanager.com/gtm.js?id=GTM-M6KM7CJ:454:137
+
+Dynamically enable window occlusion 1
